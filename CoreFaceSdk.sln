@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NativeSdkWrapper", "NativeSdkWrapper\NativeSdkWrapper.csproj", "{F5597FEE-9FCE-440E-A82A-1F774072F17E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NativeSdkWrapper.Tests", "NativeSdkWrapper.Tests\NativeSdkWrapper.Tests.csproj", "{2B17C2E4-A796-4203-84B9-76FB8D92EE93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5597FEE-9FCE-440E-A82A-1F774072F17E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5597FEE-9FCE-440E-A82A-1F774072F17E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5597FEE-9FCE-440E-A82A-1F774072F17E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5597FEE-9FCE-440E-A82A-1F774072F17E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B17C2E4-A796-4203-84B9-76FB8D92EE93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B17C2E4-A796-4203-84B9-76FB8D92EE93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B17C2E4-A796-4203-84B9-76FB8D92EE93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B17C2E4-A796-4203-84B9-76FB8D92EE93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A97EDFBB-A250-4914-AF9F-26EF35FBEF3B}
+	EndGlobalSection
+EndGlobal
